@@ -19,3 +19,19 @@ This repository contains a Python script (`Router.py`) designed to interact with
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Electro-Gamma/Router-Scripts.git
+    ```
+2. Navigate to the project directory:
+   ```bash
+   cd Router-Scripts
+    ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+    ```
+4. Run the script:
+   ```bash
+   python Router.py
+    ```
+	
+## Configuration
+	
