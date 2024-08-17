@@ -41,9 +41,9 @@ The script may require you to configure certain parameters such as the router's 
 
 If you encounter any issues while using the script, please ensure that:
 
-The router's IP address is correctly configured.
-Your device is connected to the router's network.
-You have the necessary permissions to modify router settings.	
+*The router's IP address is correctly configured.
+*Your device is connected to the router's network.
+*You have the necessary permissions to modify router settings.
 
 ## Contributions
 
