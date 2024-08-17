@@ -34,4 +34,18 @@ This repository contains a Python script (`Router.py`) designed to interact with
     ```
 	
 ## Configuration
-	
+
+The script may require you to configure certain parameters such as the router's IP address, username, and password. These can be set within the script file (Router.py).
+
+## Troubleshooting
+
+If you encounter any issues while using the script, please ensure that:
+
+The router's IP address is correctly configured.
+Your device is connected to the router's network.
+You have the necessary permissions to modify router settings.	
+
+## Contributions
+
+Contributions to this project are welcome! Please submit a pull request or open an issue to discuss your ideas.
+
