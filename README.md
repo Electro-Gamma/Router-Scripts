@@ -49,3 +49,6 @@ If you encounter any issues while using the script, please ensure that:
 
 Contributions to this project are welcome! Please submit a pull request or open an issue to discuss your ideas.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
